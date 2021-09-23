@@ -1,0 +1,13 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 4fr 1.2fr;
+}
+
+.product-section {
+    border-right: 3px solid lightgray;
+    margin-left: 40px;
+}
+
+.card-section {
+    padding: 20px;
+}

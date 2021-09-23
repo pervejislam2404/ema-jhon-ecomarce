@@ -1,0 +1,16 @@
+.list-items {
+    display: flex;
+    background-color: black;
+    list-style: none;
+}
+
+li {
+    color: white;
+    font-size: 1.3em;
+    padding: 5px 15px;
+}
+
+li:hover {
+    background-color: white;
+    color: black;
+}
